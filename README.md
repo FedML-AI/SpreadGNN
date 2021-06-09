@@ -192,8 +192,6 @@ git push
 
  
 ## 6. Citation
-Please cite our FedML paper if it helps your research.
-You can describe us in your paper like this: "We develop our experiments based on FedML".
 ```
 
 @misc{he2021spreadgnn,
