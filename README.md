@@ -1,6 +1,6 @@
-# SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks
+# SpreadGNN: Decentralized Multi-Task Federated Learning for Graph Neural Networks on Molecular Data
 
-This repository is the official implementation of SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks
+This repository is the official implementation of SpreadGNN: Decentralized Multi-Task Federated Learning for Graph Neural Networks on Molecular Data which accepted to AAAI'22.
 
 ## 1. Introduction
 
@@ -195,7 +195,7 @@ git push
 ```
 
 @misc{he2021spreadgnn,
-      title={SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks}, 
+      title={SpreadGNN: Decentralized Multi-Task Federated Learning for Graph Neural Networks on Molecular Data}, 
       author={Chaoyang He and Emir Ceyani and Keshav Balasubramanian and Murali Annavaram and Salman Avestimehr},
       year={2021},
       eprint={2106.02743},
